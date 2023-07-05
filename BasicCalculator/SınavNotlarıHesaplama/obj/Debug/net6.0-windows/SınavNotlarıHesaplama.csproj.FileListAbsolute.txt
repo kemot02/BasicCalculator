@@ -1,0 +1,17 @@
+C:\Users\katalay\source\repos\SınavNotlarıHesaplama\SınavNotlarıHesaplama\bin\Debug\net6.0-windows\SınavNotlarıHesaplama.exe
+C:\Users\katalay\source\repos\SınavNotlarıHesaplama\SınavNotlarıHesaplama\bin\Debug\net6.0-windows\SınavNotlarıHesaplama.deps.json
+C:\Users\katalay\source\repos\SınavNotlarıHesaplama\SınavNotlarıHesaplama\bin\Debug\net6.0-windows\SınavNotlarıHesaplama.runtimeconfig.json
+C:\Users\katalay\source\repos\SınavNotlarıHesaplama\SınavNotlarıHesaplama\bin\Debug\net6.0-windows\SınavNotlarıHesaplama.dll
+C:\Users\katalay\source\repos\SınavNotlarıHesaplama\SınavNotlarıHesaplama\bin\Debug\net6.0-windows\SınavNotlarıHesaplama.pdb
+C:\Users\katalay\source\repos\SınavNotlarıHesaplama\SınavNotlarıHesaplama\obj\Debug\net6.0-windows\SınavNotlarıHesaplama.csproj.AssemblyReference.cache
+C:\Users\katalay\source\repos\SınavNotlarıHesaplama\SınavNotlarıHesaplama\obj\Debug\net6.0-windows\SınavNotlarıHesaplama.Form1.resources
+C:\Users\katalay\source\repos\SınavNotlarıHesaplama\SınavNotlarıHesaplama\obj\Debug\net6.0-windows\SınavNotlarıHesaplama.csproj.GenerateResource.cache
+C:\Users\katalay\source\repos\SınavNotlarıHesaplama\SınavNotlarıHesaplama\obj\Debug\net6.0-windows\SınavNotlarıHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katalay\source\repos\SınavNotlarıHesaplama\SınavNotlarıHesaplama\obj\Debug\net6.0-windows\SınavNotlarıHesaplama.AssemblyInfoInputs.cache
+C:\Users\katalay\source\repos\SınavNotlarıHesaplama\SınavNotlarıHesaplama\obj\Debug\net6.0-windows\SınavNotlarıHesaplama.AssemblyInfo.cs
+C:\Users\katalay\source\repos\SınavNotlarıHesaplama\SınavNotlarıHesaplama\obj\Debug\net6.0-windows\SınavNotlarıHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\katalay\source\repos\SınavNotlarıHesaplama\SınavNotlarıHesaplama\obj\Debug\net6.0-windows\SınavNotlarıHesaplama.dll
+C:\Users\katalay\source\repos\SınavNotlarıHesaplama\SınavNotlarıHesaplama\obj\Debug\net6.0-windows\refint\SınavNotlarıHesaplama.dll
+C:\Users\katalay\source\repos\SınavNotlarıHesaplama\SınavNotlarıHesaplama\obj\Debug\net6.0-windows\SınavNotlarıHesaplama.pdb
+C:\Users\katalay\source\repos\SınavNotlarıHesaplama\SınavNotlarıHesaplama\obj\Debug\net6.0-windows\SınavNotlarıHesaplama.genruntimeconfig.cache
+C:\Users\katalay\source\repos\SınavNotlarıHesaplama\SınavNotlarıHesaplama\obj\Debug\net6.0-windows\ref\SınavNotlarıHesaplama.dll
